@@ -33,6 +33,7 @@ dos municípios brasileiros dividido por estado
 * MG / Minas Gerais - [geojson/geojs-31-mun.json](geojson/geojs-31-mun.json)
 * RJ / Rio de Janeiro - [geojson/geojs-33-mun.json](geojson/geojs-33-mun.json)
 * SP / São Paulo - [geojson/geojs-35-mun.json](geojson/geojs-35-mun.json)
+* SP / São Paulo - Campinas 250KM - [geojson/geojs-35-250km-Campinas-mun.json](geojson/geojs-35-250km-Campinas-mun.json)
 
 
 ### Região Sul
