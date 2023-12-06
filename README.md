@@ -33,8 +33,14 @@ dos municípios brasileiros dividido por estado
 * MG / Minas Gerais - [geojson/geojs-31-mun.json](geojson/geojs-31-mun.json)
 * RJ / Rio de Janeiro - [geojson/geojs-33-mun.json](geojson/geojs-33-mun.json)
 * SP / São Paulo - [geojson/geojs-35-mun.json](geojson/geojs-35-mun.json)
-* SP / São Paulo - Campinas 250KM - [geojson/geojs-35-250km-Campinas-mun.json](geojson/geojs-35-250km-Campinas-mun.json)
 
+#### Personalizados - Região Sudeste (circunferência)
+* SP / São Paulo - Campinas 250KM - [geojson/geojs-35-250km-Campinas-mun.json](geojson/geojs-35-250km-Campinas-mun.json)
+* SP / São Paulo - Campinas 200KM - [geojson/geojs-35-200km-Campinas-mun.json](geojson/geojs-35-200km-Campinas-mun.json)
+
+#### Personalizados - Região Sudeste (retângulo [west_km, east_km, north_km, south_km])
+* SP / São Paulo - Campinas [200-50-50-50]KM - [geojson/geojs-35-[200-50-50-50]km-Campinas-mun.json](geojson/geojs-35-[200-50-50-50]km-Campinas-mun.json)
+* SP / São Paulo - Campinas [200-70-70-70]KM - [geojson/geojs-35-[200-70-70-70]km-Campinas-mun.json](geojson/geojs-35-[200-70-70-70]km-Campinas-mun.json)
 
 ### Região Sul
 * PR / Paraná - [geojson/geojs-41-mun.json](geojson/geojs-41-mun.json)
